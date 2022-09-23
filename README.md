@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @Diyorjon825
+# 🏄‍♂️ Diyorjon825
+
+**`Digital Craftsman (Developer)`**
+
+- 👋 Hi, I’m Diyorjon Nasriddinov
 - 👀 I’m interested in dart flutter
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning flutter/ios
+- 📫 How to reach me diyorjonnasriddinov@gmail.com
 
 <!---
 Diyorjon825/Diyorjon825 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
