@@ -1,7 +1,5 @@
 # 🏄‍♂️ Diyorjon825
 
-**`Digital Craftsman (Developer)`**
-
 - 👋 Hi, I’m Diyorjon Nasriddinov
 - 👀 I’m interested in dart flutter
 - 🌱 I’m currently learning flutter/ios
